@@ -1,3 +1,2 @@
-# Student management list
-Linked List
-Binary Search Tree
+# Student information management
+Linked List, Binary Search Tree
