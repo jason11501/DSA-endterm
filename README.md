@@ -1,1 +1,3 @@
-Student management list
+# Student management list
+Linked List
+Binary Search Tree
